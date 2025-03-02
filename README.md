@@ -1,6 +1,6 @@
-## <div style="font-size: 28px; font-weight: 600;" align="center">Hello, I'm Eugene Khonich</div>
+### <div style="font-size: 28px; font-weight: 600;" align="center">Hello, I'm Eugene Khonich</div>
 
-### <div style="font-size: 20px; font-weight: 400;" align="center" >Full-Stack Developer | JavaScript, React, Node.js </div>
+## <div style="font-size: 20px; font-weight: 400;" align="center" >Full-Stack Developer | JavaScript, React, Node.js </div>
 
 ## <span style="color: #e0234e;">My Tech Skill</span>
 

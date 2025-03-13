@@ -25,7 +25,7 @@
 
 <div align="center">
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="./img/backend/nodejs.svg" alt="Node.js" height="40" /></a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px; fill: #fff" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="./img/backend/mongodb.svg" alt="MongoDB" height="40" /></a>
 <a href="https://git-scm.com//" target="_blank"><img style="margin: 10px" src="./img/backend//gitbash.svg" alt="Git" height="40" /></a>
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="./img/backend/powershell.svg" alt="Powershell" height="40" /></a>
